@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-15T15:40:02.825Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aLQ42zEpIPi5H_6o90nd" version="24.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-15T15:40:19.437Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="5kKwQ6wspOsJEDXiUYwE" version="24.2.5" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="794" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -74,7 +74,7 @@
             <mxPoint x="320" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DtPNEOPhcOIuzaQkd96E-17" value="6. Server updates info" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DtPNEOPhcOIuzaQkd96E-16" vertex="1" connectable="0">
+        <mxCell id="DtPNEOPhcOIuzaQkd96E-17" value="6. updateServer()" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="DtPNEOPhcOIuzaQkd96E-16" vertex="1" connectable="0">
           <mxGeometry x="-0.1398" y="1" relative="1" as="geometry">
             <mxPoint x="10" y="-9" as="offset" />
           </mxGeometry>
